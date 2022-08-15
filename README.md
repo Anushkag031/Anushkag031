@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anushkag031](https://github.com/Anushkag031)
 
-- 💬 Ask me about *Java, C, Python, html5, css3*
+- 💬 Ask me about *Java, C, Python, html5, css3, javascript*
 
 - 📫 How to reach me *Anushkagupta319@gmail.com*
 
