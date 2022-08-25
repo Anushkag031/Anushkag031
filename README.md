@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning React JS, DSA<br><br>👨‍💻 All of my projects are available at https://github.com/Anushkag031<br><br>💬 Ask me about Java, C, Python, html5, css3, javascript<br><br>📫 How to reach me Anushkagupta319@gmail.com<br><br>⚡ Fun fact I prefer sleeping over watching movies🙂
 
+---
+[![](https://visitcount.itsvg.in/api?id=Anushkag031&icon=1&color=10)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anushka.g031_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anushkag031) 
@@ -18,16 +20,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Anushkag031&icon=1&color=10)](https://visitcount.itsvg.in)
+
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Anushkag031) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
   
  
   
