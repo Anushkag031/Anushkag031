@@ -3,17 +3,15 @@
 <h3 align="left"> A front end   developer from India  .</h3>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Anushkag031
-&label=Profile%20views&color=0e75b6&style=flat" alt="Anushkag031" /> </p>
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Anushkag031&icon=1&color=10" alt="Anushkag031" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushkag031
-&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="Anushkag031" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushkag031&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="Anushkag031" /></a> </p>
 
 # 💫 About Me:
 🌱 I’m currently learning React JS, DSA<br><br>👨‍💻 All of my projects are available at https://github.com/Anushkag031<br><br>💬 Ask me about Java, C, Python, html5, css3, javascript<br><br>📫 How to reach me Anushkagupta319@gmail.com<br><br>⚡ Fun fact I prefer sleeping over watching movies🙂
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anushkag031&icon=1&color=10)](https://visitcount.itsvg.in)
+[![]()](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anushka.g031_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anushkag031) 
