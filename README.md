@@ -1,6 +1,6 @@
 <h1 align="center">Hey coder's ,Anushka Gupta here <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
 
-<h3 align="left"> A front end   developer from India  .</h3>
+<h3 align="Center"> A Human who have code in Veins .</h3>
 
 
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=Anushkag031&icon=1&color=10" alt="Anushkag031" /> </p>
