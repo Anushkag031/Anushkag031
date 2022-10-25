@@ -1,3 +1,14 @@
+<h1 align="center">Hey coder's ,Anushka Gupta here <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
+
+<h3 align="left"> A front end   developer from India  .</h3>
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Anushkag031
+&label=Profile%20views&color=0e75b6&style=flat" alt="Anushkag031" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushkag031
+&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="Anushkag031" /></a> </p>
+
 # 💫 About Me:
 🌱 I’m currently learning React JS, DSA<br><br>👨‍💻 All of my projects are available at https://github.com/Anushkag031<br><br>💬 Ask me about Java, C, Python, html5, css3, javascript<br><br>📫 How to reach me Anushkagupta319@gmail.com<br><br>⚡ Fun fact I prefer sleeping over watching movies🙂
 
