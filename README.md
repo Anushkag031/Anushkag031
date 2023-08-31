@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushkag031&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="Anushkag031" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning React JS, DSA<br><br>👨‍💻 All of my projects are available at https://github.com/Anushkag031<br><br>💬 Ask me about Java, C, Python, html5, css3, javascript<br><br>📫 How to reach me Anushkagupta319@gmail.com<br><br>⚡ Fun fact I prefer sleeping over watching movies🙂
+🌱 I’m currently learning about ful stack development, DSA and improving my problem solving skills. <br><br>👨‍💻 All of my projects are available at https://github.com/Anushkag031<br><br>💬 Ask me about Java, C, Python, html5, css3, javascript, MERN full stack , Django full stack<br><br>📫 How to reach me Anushkagupta319@gmail.com<br><br>⚡ Fun fact I prefer sleeping over watching movies🙂
 
 
 ## 🌐 Socials:
