@@ -63,8 +63,7 @@ I am currently pursuing my Master of Computer Applications (MCA) degree at Banas
     Education 
     </h2>
 
-  First Semester - `Master` of `Computer Application` - Institue of Engineering and Technology, Ayodhya
-
+  First Semester - `Master` of `Computer Application` - Banasthali Vidyapeeth.
   `Secondary School` Certificate `(CBSE)` or `Matriculation` Examination - Shri Shankar Mumukshu Vidyapèeth , Shahjahanpur.
 
 
