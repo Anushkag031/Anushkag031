@@ -1,6 +1,7 @@
 # Hi there, I'm Anushka Gupta! 👋
 
-![Header](./github-header-image-name.png) <!-- Replace with your own banner image URL -->
+![logo](github-header-image.png)
+
 
 
 # 💫 About Me:
