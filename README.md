@@ -43,8 +43,8 @@ I am a passionate and aspiring Full Stack Web Developer currently pursuing my Ma
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anushkag031&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-//### 😂 Random Dev Meme
-//<img src='https://memer-new.vercel.app/' style="height: 300px;"/>
+<!--### 😂 Random Dev Meme-->
+<!--<img src='https://memer-new.vercel.app/' style="height: 300px;"/>-->
 
 ---
 
